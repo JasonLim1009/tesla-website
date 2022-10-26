@@ -17,7 +17,7 @@ const Banner = () => {
             <button className='btn btn-sm lg:btn-lg btn-secondary' data-aos='fade-down' data-aos-delay='700'>{textBtn}</button>
           </a>
         </div>
-        <div className='bg-blue-300 w-full h-full bg-banner bg-cover bg-right lg:bg-center bg-no-repeat flex-1' data-aos='fade-right' data-aos-delay='900'></div>
+        <div className='bg-blue-300 w-full h-full bg-banner bg-cover bg-center lg:bg-center bg-no-repeat flex-1' data-aos='fade-right' data-aos-delay='900'></div>
       </div>
     </div>
   </section>;
